@@ -1,0 +1,4 @@
+[debug] [calc-build] Classpath dependencies List()
+[debug] [calc-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'calc-build' to 'C:\Users\artam\Desktop\Scala 2.0\calc\project\.bloop\calc-build.json'
+[success] Generated .bloop\calc-build.json

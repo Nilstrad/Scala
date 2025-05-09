@@ -1,0 +1,1079 @@
+2025.05.09 14:00:07 INFO  Started: Metals version 1.5.2 in folders 'C:\Users\artam\Desktop\Scala 2.0' for client Visual Studio Code 1.99.3.
+2025.05.09 14:00:08 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+мая 09, 2025 2:00:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2025.05.09 14:00:14 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+мая 09, 2025 2:00:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2
+2025.05.09 14:00:14 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:00:14 INFO  Attempting to connect to the build server...
+2025.05.09 14:00:14 WARN  no build target for: C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main.scala
+2025.05.09 14:00:14 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:00:14 INFO  No running Bloop server found, starting one.
+2025.05.09 14:00:14 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.5
+мая 09, 2025 2:00:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+мая 09, 2025 2:00:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+мая 09, 2025 2:00:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 9
+2025.05.09 14:00:14 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:00:14 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+мая 09, 2025 2:00:15 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 15
+2025.05.09 14:00:15 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:00:15 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:00:15 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:00:18 INFO  Starting compilation server
+2025.05.09 14:00:19 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+мая 09, 2025 2:00:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 23
+2025.05.09 14:00:19 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:00:19 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+мая 09, 2025 2:00:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 17
+мая 09, 2025 2:00:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 20
+мая 09, 2025 2:00:19 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 16
+2025.05.09 14:00:19 WARN  no build target for: C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main.scala
+2025.05.09 14:00:19 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:00:19 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:00:20 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:00:19 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:00:19 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.5
+мая 09, 2025 2:00:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 36
+2025.05.09 14:00:19 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:00:20 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.5
+мая 09, 2025 2:00:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 40
+2025.05.09 14:00:21 WARN  no build target for: C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala
+2025.05.09 14:00:20 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:00:22 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:00:22 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:00:22 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:00:22 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+мая 09, 2025 2:00:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 52
+мая 09, 2025 2:00:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 53
+мая 09, 2025 2:00:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 47
+мая 09, 2025 2:00:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 46
+мая 09, 2025 2:00:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 51
+2025.05.09 14:00:22 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:00:23 WARN  no build target for: C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main.scala
+2025.05.09 14:00:23 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:00:23 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:00:23 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:00:23 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:00:23 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:00:24 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:00:24 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:00:25 WARN  no build target for: C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main.scala
+2025.05.09 14:00:25 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:00:25 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:00:26 WARN  no build target for: C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala
+2025.05.09 14:00:26 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:00:26 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:00:26 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:00:26 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:00:26 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:00:27 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:00:27 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:00:27 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:00:29 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:00:29 WARN  Could not find semantic tokens for: file:///C:/Users/artam/Desktop/Scala%202.0/calc/src/main/scala/Main2.scala
+2025.05.09 14:00:31 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\artam\Desktop\Scala 2.0\.metals\bsp.trace.json or C:\Users\artam\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.05.09 14:00:32 INFO  time: Connected to build server in 17s
+2025.05.09 14:00:32 INFO  Connected to Build server: Bloop v2.0.9
+мая 09, 2025 2:00:32 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Empty build targets. Expected at least one build target identifier. (full report at: C:\Users\artam\Desktop\Scala 2.0\.metals\.reports\bloop\2025-05-09\r_Empty build targets...._14-00-32-134.md)
+мая 09, 2025 2:00:32 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Empty build targets. Expected at least one build target identifier. (full report at: C:\Users\artam\Desktop\Scala 2.0\.metals\.reports\bloop\2025-05-09\r_Empty build targets...._14-00-32-134.md)
+мая 09, 2025 2:00:32 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Empty build targets. Expected at least one build target identifier. (full report at: C:\Users\artam\Desktop\Scala 2.0\.metals\.reports\bloop\2025-05-09\r_Empty build targets...._14-00-32-134.md)
+мая 09, 2025 2:00:32 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Empty build targets. Expected at least one build target identifier. (full report at: C:\Users\artam\Desktop\Scala 2.0\.metals\.reports\bloop\2025-05-09\r_Empty build targets...._14-00-32-134.md)
+мая 09, 2025 2:00:32 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: Empty build targets. Expected at least one build target identifier. (full report at: C:\Users\artam\Desktop\Scala 2.0\.metals\.reports\bloop\2025-05-09\r_Empty build targets...._14-00-32-134.md)
+2025.05.09 14:00:33 INFO  time: indexed workspace in 2.34s
+2025.05.09 14:00:34 WARN  no build target for: C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala
+2025.05.09 14:00:34 WARN  no build target for: C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main.scala
+2025.05.09 14:00:34 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:00:34 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:00:34 WARN  no build target for: C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main.scala
+2025.05.09 14:00:34 WARN  no build target for: C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala
+2025.05.09 14:00:34 WARN  no build target for: C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main.scala
+2025.05.09 14:00:34 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:00:34 WARN  no build target for: C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala
+2025.05.09 14:00:34 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:00:36 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:00:36 WARN  Could not find semantic tokens for: file:///C:/Users/artam/Desktop/Scala%202.0/calc/src/main/scala/Main2.scala
+2025.05.09 14:01:07 WARN  no build target for: C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main.scala
+2025.05.09 14:01:07 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:07 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:08 WARN  no build target for: C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala
+2025.05.09 14:01:08 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:08 WARN  Could not find semantic tokens for: file:///C:/Users/artam/Desktop/Scala%202.0/calc/src/main/scala/Main2.scala
+2025.05.09 14:01:09 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:09 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:09 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:09 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:09 WARN  no build target for: C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala
+2025.05.09 14:01:09 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:09 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:09 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+мая 09, 2025 2:01:11 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\artam\Desktop\Scala 2.0\.metals\.reports\metals-full\2025-05-09\r_empty-definition_14-01-11-109.md)
+2025.05.09 14:01:22 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:25 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:25 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:25 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:26 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:26 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:26 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:26 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:26 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:26 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:27 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:32 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:32 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:32 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:32 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:32 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:32 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:33 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:33 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:32 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:34 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:34 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:34 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:34 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:34 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:34 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:34 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:34 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:34 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:34 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:34 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:35 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:35 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:35 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:35 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:35 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:35 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:35 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+мая 09, 2025 2:01:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 182
+2025.05.09 14:01:35 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:36 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:36 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:35 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:37 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:37 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:37 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:37 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:37 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:37 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:37 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:37 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:37 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:37 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:38 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:01:38 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:02:56 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:02 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:02 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+мая 09, 2025 2:03:02 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\artam\Desktop\Scala 2.0\.metals\.reports\metals-full\2025-05-09\r_empty-definition_14-01-11-109.md)
+2025.05.09 14:03:02 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:03 WARN  no build target for: C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala
+2025.05.09 14:03:03 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:03 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:04 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+мая 09, 2025 2:03:04 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\artam\Desktop\Scala 2.0\.metals\.reports\metals-full\2025-05-09\r_empty-definition_14-01-11-109.md)
+2025.05.09 14:03:04 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:05 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:05 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:05 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:05 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:06 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:06 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:06 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:06 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:06 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:06 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:06 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:06 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:06 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:06 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:06 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:06 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:06 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:07 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:07 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:07 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:07 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:07 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:07 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:07 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:07 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:08 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:07 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:08 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:08 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:07 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:09 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:09 WARN  no build target for: C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala
+2025.05.09 14:03:09 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:09 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:10 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:10 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:25 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:25 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:26 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:40 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:40 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:43 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:43 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:45 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:45 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:45 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:46 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:46 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:45 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:45 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:45 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:46 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:46 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:45 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:54 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:03:59 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:00 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:00 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:00 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:00 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:00 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:01 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:01 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:00 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:00 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:01 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:01 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:00 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:00 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:01 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:02 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:02 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:02 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:02 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:02 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:01 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:02 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:02 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:02 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:02 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:02 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:04 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:04 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:04 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:04 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:04 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:04 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:04 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:04 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:04 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:05 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:05 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+мая 09, 2025 2:04:05 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 356
+2025.05.09 14:04:05 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:05 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:05 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:05 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:05 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:05 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:06 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:05 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:06 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:06 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:06 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:06 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:07 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:06 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:06 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:07 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:06 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:07 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:06 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:06 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:07 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:07 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:07 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:07 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:07 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:07 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:07 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:08 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:08 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:07 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:09 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:09 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:08 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:09 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:09 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:09 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:09 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:10 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:10 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:10 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:10 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:11 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:11 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:11 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:11 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:12 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:15 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:15 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:15 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:15 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:16 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:16 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:16 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:21 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:21 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:21 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:21 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:22 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:22 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:22 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:22 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:22 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:23 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:22 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:24 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:24 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:04:27 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:05:47 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:05:47 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:05:47 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:05:47 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:05:48 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:05:48 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:05:52 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:05:52 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:05:52 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:05:52 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:05:53 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:05:52 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:05:52 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:05:52 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:05:53 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:05:52 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:05:52 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:05:52 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:05:53 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:05:52 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:05:53 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:05:54 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:05:54 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:06 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:06 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:06 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:06 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:06 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:06 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:06 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:06 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:06 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:07 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:07 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:06 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+мая 09, 2025 2:06:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 513
+2025.05.09 14:06:06 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:07 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:07 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:08 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:08 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+мая 09, 2025 2:06:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 520
+2025.05.09 14:06:07 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:08 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:08 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:08 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:08 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:08 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:08 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:08 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:08 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:08 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:08 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:10 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:10 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+мая 09, 2025 2:06:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 540
+2025.05.09 14:06:10 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:10 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:10 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:10 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:10 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:10 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+мая 09, 2025 2:06:10 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 550
+2025.05.09 14:06:10 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:11 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:11 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:10 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:11 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:11 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:12 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:11 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:12 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:12 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:14 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:14 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:14 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:14 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:14 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:14 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:15 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:14 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:14 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:14 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:15 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:15 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:18 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:18 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:18 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:18 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:19 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:19 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:19 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:22 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:22 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:22 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:22 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:22 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:22 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:22 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:22 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:23 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:23 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:22 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:23 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:24 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:24 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:40 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:40 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:41 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:47 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:47 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:47 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:47 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:47 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:47 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:48 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:48 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:48 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:48 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:48 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:48 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:49 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:49 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:48 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:49 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:50 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:50 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:49 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:55 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:55 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:55 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:56 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:56 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:56 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:57 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:56 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:56 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:57 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:57 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:56 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:06:58 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:01 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:01 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:01 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:01 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:01 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:01 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:01 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:01 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:02 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:02 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:02 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:21 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:21 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:21 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:21 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:21 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:21 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:21 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:21 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:22 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:22 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:22 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:22 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:22 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:23 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:23 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:22 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:22 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:22 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:23 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:23 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:23 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:23 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:23 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:23 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:23 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:23 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:23 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:24 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:24 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:24 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:24 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:25 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:25 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:24 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:24 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:25 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:25 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:24 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:26 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:26 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:26 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:26 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:27 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:26 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:29 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:29 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:29 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:29 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:29 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:29 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:29 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:29 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:30 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:31 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:31 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:31 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:31 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:32 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:31 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:32 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:32 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:34 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:34 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:34 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:34 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:34 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:34 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:34 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:34 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:34 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:34 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:34 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:35 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:34 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:34 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:35 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:35 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:35 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:35 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:35 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:35 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:35 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:35 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:35 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:35 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:35 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:35 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:36 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:36 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:36 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:36 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:36 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:36 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:36 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:41 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:41 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:41 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:41 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:43 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:44 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:44 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:46 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:46 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:49 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:49 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:49 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:50 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:50 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:51 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:51 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:51 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:51 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:51 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:51 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:52 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:52 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:52 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:52 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:53 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:52 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:53 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:54 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:54 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:07:59 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:03 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:04 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:05 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:05 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:05 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:04 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:04 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:05 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:05 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+мая 09, 2025 2:08:05 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\artam\Desktop\Scala 2.0\.metals\.reports\metals-full\2025-05-09\r_empty-definition_14-01-11-109.md)
+2025.05.09 14:08:05 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:04 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:04 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:04 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:06 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:05 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+мая 09, 2025 2:08:06 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\artam\Desktop\Scala 2.0\.metals\.reports\metals-full\2025-05-09\r_empty-definition_14-01-11-109.md)
+2025.05.09 14:08:06 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:06 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+мая 09, 2025 2:08:06 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 923
+2025.05.09 14:08:06 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:06 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+мая 09, 2025 2:08:06 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\artam\Desktop\Scala 2.0\.metals\.reports\metals-full\2025-05-09\r_empty-definition_14-01-11-109.md)
+2025.05.09 14:08:06 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:06 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:07 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:09 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:09 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:10 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:10 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:09 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:10 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:09 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:10 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:11 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:11 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:11 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:11 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:12 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:12 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:12 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:12 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:12 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:12 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:13 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:13 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:13 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:13 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:13 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:15 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:15 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:15 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:15 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:15 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:16 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:16 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:17 WARN  no build target for: C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala
+2025.05.09 14:08:17 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:18 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:18 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+мая 09, 2025 2:08:18 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\artam\Desktop\Scala 2.0\.metals\.reports\metals-full\2025-05-09\r_empty-definition_14-01-11-109.md)
+2025.05.09 14:08:18 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:18 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:19 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:19 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:25 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:25 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:26 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:26 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:29 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:29 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:30 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:30 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:30 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:30 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:33 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:33 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:34 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:34 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:34 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:34 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:34 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:34 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:36 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:37 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:37 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:37 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:37 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:38 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:37 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:39 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:40 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:49 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:08:49 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:11:11 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:11:11 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:11:12 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:11:12 WARN  no build target for: C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala
+2025.05.09 14:11:12 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:11:13 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:11:13 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:11:17 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:11:19 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:11:20 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:11:20 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:11:22 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:11:23 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:11:23 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:11:26 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:11:31 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:11:31 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:11:31 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:11:32 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:11:35 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:11:35 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:11:35 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:11:36 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:11:38 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:11:49 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:11:50 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:11:54 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:11:54 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:11:54 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:12:00 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:12:00 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:12:00 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:12:04 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:12:04 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:12:06 INFO  running 'C:\Program Files\Java\jdk-23\bin\java.exe -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar C:\Users\artam\AppData\Local\Temp\metals10808419193727594774\sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2025.05.09 14:12:12 INFO  [info] welcome to sbt 1.10.11 (Oracle Corporation Java 23.0.1)
+2025.05.09 14:12:13 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:12:13 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:12:13 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:12:14 INFO  [info] loading settings for project calc-build-build from metals.sbt...
+2025.05.09 14:12:14 INFO  [info] loading project definition from C:\Users\artam\Desktop\Scala 2.0\calc\project\project
+2025.05.09 14:12:15 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:12:15 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:12:15 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:12:17 INFO  [info] loading settings for project calc-build from metals.sbt...
+2025.05.09 14:12:17 INFO  [info] loading project definition from C:\Users\artam\Desktop\Scala 2.0\calc\project
+2025.05.09 14:12:18 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:12:18 INFO  no build target found for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala. Using presentation compiler with project's scala-library version: 3.3.5
+2025.05.09 14:12:22 INFO  [success] Generated .bloop\calc-build.json
+2025.05.09 14:12:22 INFO  [warn] Removed stale C:\Users\artam\Desktop\Scala 2.0\calc\project\.bloop\hello-world-build.json
+2025.05.09 14:12:22 INFO  [success] Total time: 5 s, completed 9 мая 2025 г., 14:12:23
+2025.05.09 14:12:24 INFO  [info] loading settings for project calc from build.sbt...
+2025.05.09 14:12:24 INFO  [info] set current project to hello-world (in build file:/C:/Users/artam/Desktop/Scala%202.0/calc/)
+2025.05.09 14:12:24 INFO  [success] Generated .bloop\calc.json
+2025.05.09 14:12:24 INFO  [success] Generated .bloop\calc-test.json
+2025.05.09 14:12:24 INFO  [warn] Removed stale C:\Users\artam\Desktop\Scala 2.0\calc\.bloop\hello-world.json
+2025.05.09 14:12:24 INFO  [warn] Removed stale C:\Users\artam\Desktop\Scala 2.0\calc\.bloop\hello-world-test.json
+2025.05.09 14:12:24 INFO  [success] Total time: 0 s, completed 9 мая 2025 г., 14:12:25
+2025.05.09 14:12:25 INFO  time: ran 'sbt bloopInstall' in 19s
+2025.05.09 14:12:25 INFO  Disconnecting from Bloop session...
+2025.05.09 14:12:25 INFO  Shut down connection with build server.
+2025.05.09 14:12:25 INFO  Attempting to connect to the build server...
+2025.05.09 14:12:25 INFO  Found a Bloop server running
+2025.05.09 14:12:25 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at C:\Users\artam\Desktop\Scala 2.0\.metals\bsp.trace.json or C:\Users\artam\AppData\Local\scalameta\metals\cache\bsp.trace.json
+2025.05.09 14:12:26 INFO  time: Connected to build server in 0.66s
+2025.05.09 14:12:26 INFO  Connected to Build server: Bloop v2.0.9
+2025.05.09 14:12:29 INFO  time: indexed workspace in 2.84s
+2025.05.09 14:12:29 INFO  compiling calc (2 scala sources)
+2025.05.09 14:12:33 INFO  time: compiled calc in 3.97s
+мая 09, 2025 2:12:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1219
+мая 09, 2025 2:12:59 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report C:\Users\artam\Desktop\Scala 2.0\.metals\.reports\metals-full\2025-05-09\r_compiler-error_(calc)_14-12-59-623.md
+2025.05.09 14:13:06 INFO  compiling calc (2 scala sources)
+мая 09, 2025 2:13:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1270
+2025.05.09 14:13:10 INFO  time: compiled calc in 4.39s
+2025.05.09 14:15:30 INFO  compiling calc (1 scala source)
+2025.05.09 14:15:33 INFO  time: compiled calc in 3.55s
+2025.05.09 14:15:33 INFO  compiling calc (1 scala source)
+2025.05.09 14:15:35 INFO  time: compiled calc in 1.61s
+2025.05.09 14:15:42 INFO  compiling calc (1 scala source)
+2025.05.09 14:15:43 INFO  time: compiled calc in 1s
+2025.05.09 14:15:59 INFO  compiling calc (2 scala sources)
+2025.05.09 14:16:01 INFO  time: compiled calc in 1.64s
+2025.05.09 14:18:34 INFO  compiling calc (1 scala source)
+мая 09, 2025 2:18:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1563
+мая 09, 2025 2:18:34 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\artam\Desktop\Scala 2.0\.metals\.reports\metals-full\2025-05-09\r_empty-definition_14-01-11-109.md)
+2025.05.09 14:18:38 INFO  time: compiled calc in 4.79s
+2025.05.09 14:18:38 INFO  compiling calc (1 scala source)
+2025.05.09 14:18:41 INFO  time: compiled calc in 2.21s
+2025.05.09 14:18:48 INFO  compiling calc (1 scala source)
+2025.05.09 14:18:50 INFO  time: compiled calc in 1.86s
+2025.05.09 14:23:28 INFO  compiling calc (3 scala sources)
+2025.05.09 14:23:28 WARN  Could not find semantic tokens for: file:///C:/Users/artam/Desktop/Scala%202.0/calc/src/main/scala/NewCalc2.scala
+2025.05.09 14:23:33 INFO  time: compiled calc in 5.78s
+2025.05.09 14:23:33 WARN  Could not find semantic tokens for: file:///C:/Users/artam/Desktop/Scala%202.0/calc/src/main/scala/NewCalc2.scala
+2025.05.09 14:23:34 WARN  Could not find semantic tokens for: file:///C:/Users/artam/Desktop/Scala%202.0/calc/src/main/scala/NewCalc2.scala
+2025.05.09 14:23:37 WARN  Could not find semantic tokens for: file:///C:/Users/artam/Desktop/Scala%202.0/calc/src/main/scala/NewCalc2.scala
+2025.05.09 14:23:37 WARN  Could not find semantic tokens for: file:///C:/Users/artam/Desktop/Scala%202.0/calc/src/main/scala/NewCalc2.scala
+2025.05.09 14:23:38 WARN  Could not find semantic tokens for: file:///C:/Users/artam/Desktop/Scala%202.0/calc/src/main/scala/NewCalc2.scala
+2025.05.09 14:23:39 WARN  Could not find semantic tokens for: file:///C:/Users/artam/Desktop/Scala%202.0/calc/src/main/scala/NewCalc2.scala
+мая 09, 2025 2:24:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1861
+мая 09, 2025 2:24:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1862
+мая 09, 2025 2:24:33 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1868
+мая 09, 2025 2:25:21 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2123
+мая 09, 2025 2:27:58 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2640
+2025.05.09 14:28:32 INFO  compiling calc (1 scala source)
+2025.05.09 14:28:35 INFO  time: compiled calc in 2.47s
+мая 09, 2025 2:28:45 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\artam\Desktop\Scala 2.0\.metals\.reports\metals-full\2025-05-09\r_empty-definition_14-01-11-109.md)
+мая 09, 2025 2:30:51 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2853
+мая 09, 2025 2:48:07 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 4506
+2025.05.09 14:53:29 INFO  compiling calc (1 scala source)
+мая 09, 2025 2:53:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5617
+мая 09, 2025 2:53:30 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5619
+мая 09, 2025 2:53:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5624
+мая 09, 2025 2:53:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5626
+2025.05.09 14:53:36 INFO  time: compiled calc in 6.76s
+мая 09, 2025 2:54:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 5756
+мая 09, 2025 2:59:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6720
+мая 09, 2025 3:00:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 6980
+мая 09, 2025 3:00:59 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7141
+2025.05.09 15:01:33 INFO  compiling calc (3 scala sources)
+мая 09, 2025 3:01:34 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7317
+2025.05.09 15:01:36 INFO  time: compiled calc in 3.46s
+2025.05.09 15:01:47 INFO  compiling calc (3 scala sources)
+мая 09, 2025 3:01:47 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\artam\Desktop\Scala 2.0\.metals\.reports\metals-full\2025-05-09\r_empty-definition_14-01-11-109.md)
+2025.05.09 15:01:48 INFO  time: compiled calc in 1.86s
+мая 09, 2025 3:01:56 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\artam\Desktop\Scala 2.0\.metals\.reports\metals-full\2025-05-09\r_empty-definition_14-01-11-109.md)
+2025.05.09 15:01:57 INFO  compiling calc (3 scala sources)
+2025.05.09 15:01:58 INFO  time: compiled calc in 1.09s
+2025.05.09 15:03:14 INFO  compiling calc (3 scala sources)
+2025.05.09 15:03:15 INFO  time: compiled calc in 1.03s
+2025.05.09 15:04:12 INFO  compiling calc (3 scala sources)
+2025.05.09 15:04:12 INFO  time: compiled calc in 0.88s
+мая 09, 2025 3:04:24 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\artam\Desktop\Scala 2.0\.metals\.reports\metals-full\2025-05-09\r_empty-definition_14-01-11-109.md)
+2025.05.09 15:04:24 INFO  compiling calc (3 scala sources)
+мая 09, 2025 3:04:25 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\artam\Desktop\Scala 2.0\.metals\.reports\metals-full\2025-05-09\r_empty-definition_14-01-11-109.md)
+2025.05.09 15:04:24 INFO  time: compiled calc in 0.95s
+2025.05.09 15:04:40 WARN  Could not find semantic tokens for: file:///C:/Users/artam/Desktop/Scala%202.0/calc/src/main/scala/Main2.scala
+2025.05.09 15:04:52 WARN  Could not find semantic tokens for: file:///C:/Users/artam/Desktop/Scala%202.0/calc/src/main/scala/Main2.scala
+2025.05.09 15:05:02 INFO  compiling calc (3 scala sources)
+2025.05.09 15:05:02 INFO  time: compiled calc in 0.82s
+2025.05.09 15:05:09 INFO  compiling calc (2 scala sources)
+2025.05.09 15:05:12 WARN  Invalid text document uri received from build server: file:///C:/Users/artam/Desktop/Scala%202.0/calc/src/main/scala/NewCalc2.scala
+мая 09, 2025 3:05:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7842
+мая 09, 2025 3:05:13 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 7844
+мая 09, 2025 3:05:13 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\artam\Desktop\Scala 2.0\.metals\.reports\metals-full\2025-05-09\r_empty-definition_14-01-11-109.md)
+2025.05.09 15:05:12 INFO  time: compiled calc in 3.89s
+мая 09, 2025 3:08:20 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\artam\Desktop\Scala 2.0\.metals\.reports\metals-full\2025-05-09\r_empty-definition_14-01-11-109.md)
+Exception in thread "pool-334-thread-1" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+Exception in thread "pool-334-thread-2" java.lang.InterruptedException
+	at scala.meta.internal.metals.FutureCancelToken.checkCanceled(FutureCancelToken.scala:29)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:244)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+мая 09, 2025 3:08:22 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc:  (full report at: C:\Users\artam\Desktop\Scala 2.0\.metals\.reports\metals-full\2025-05-09\r_empty-definition_(calc)_15-08-22-563.md)
+2025.05.09 15:08:22 INFO  compiling calc (1 scala source)
+2025.05.09 15:08:22 INFO  time: compiled calc in 0.75s
+2025.05.09 15:08:35 INFO  compiling calc (1 scala source)
+2025.05.09 15:08:35 INFO  time: compiled calc in 0.89s
+2025.05.09 15:09:50 INFO  compiling calc (1 scala source)
+2025.05.09 15:09:50 INFO  time: compiled calc in 0.61s
+мая 09, 2025 3:10:24 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\artam\Desktop\Scala 2.0\.metals\.reports\metals-full\2025-05-09\r_empty-definition_14-01-11-109.md)
+2025.05.09 15:12:34 INFO  compiling calc (1 scala source)
+2025.05.09 15:12:34 INFO  time: compiled calc in 0.53s
+2025.05.09 15:12:48 INFO  compiling calc (1 scala source)
+2025.05.09 15:12:50 INFO  time: compiled calc in 1.53s
+2025.05.09 15:12:52 INFO  compiling calc (1 scala source)
+2025.05.09 15:12:54 INFO  time: compiled calc in 1.57s
+2025.05.09 15:12:59 INFO  compiling calc (1 scala source)
+2025.05.09 15:12:59 INFO  time: compiled calc in 0.92s
+мая 09, 2025 3:13:47 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\artam\Desktop\Scala 2.0\.metals\.reports\metals-full\2025-05-09\r_empty-definition_14-01-11-109.md)
+2025.05.09 15:15:03 INFO  compiling calc (2 scala sources)
+2025.05.09 15:15:05 INFO  time: compiled calc in 1.12s
+мая 09, 2025 3:19:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8558
+мая 09, 2025 3:19:23 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\artam\Desktop\Scala 2.0\.metals\.reports\metals-full\2025-05-09\r_empty-definition_14-01-11-109.md)
+2025.05.09 15:19:23 WARN  Could not load snapshot text for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala
+2025.05.09 15:19:23 WARN  Could not load snapshot text for C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala
+мая 09, 2025 3:19:23 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\artam\Desktop\Scala 2.0\.metals\.reports\metals-full\2025-05-09\r_empty-definition_14-01-11-109.md)
+2025.05.09 15:19:23 INFO  compiling calc (1 scala source)
+2025.05.09 15:19:24 INFO  time: compiled calc in 1.11s
+2025.05.09 15:19:31 INFO  compiling calc (1 scala source)
+2025.05.09 15:19:32 WARN  Invalid text document uri received from build server: file:///C:/Users/artam/Desktop/Scala%202.0/calc/src/main/scala/Main.scala
+2025.05.09 15:19:32 INFO  time: compiled calc in 1.33s
+2025.05.09 15:19:35 INFO  compiling calc (1 scala source)
+2025.05.09 15:19:36 INFO  time: compiled calc in 1.18s
+мая 09, 2025 3:19:39 PM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala
+java.nio.file.NoSuchFileException: C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:234)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3292)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:42)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:18)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:465)
+	at scala.meta.internal.mtags.Mtags.index(Mtags.scala:96)
+	at scala.meta.internal.mtags.Mtags.allSymbols(Mtags.scala:21)
+	at scala.meta.internal.mtags.SymbolIndexBucket.allSymbols(SymbolIndexBucket.scala:277)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:288)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:204)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:204)
+	at scala.collection.immutable.Set$Set2.foreach(Set.scala:210)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:204)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:177)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:137)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:48)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:51)
+	at dotty.tools.pc.utils.InteractiveEnrichments$.symbolDocumentation(InteractiveEnrichments.scala:284)
+	at dotty.tools.pc.printer.ShortenedTypePrinter.paramsDocs$lzyINIT1$1(ShortenedTypePrinter.scala:310)
+	at dotty.tools.pc.printer.ShortenedTypePrinter.paramsDocs$1(ShortenedTypePrinter.scala:314)
+	at dotty.tools.pc.printer.ShortenedTypePrinter.$anonfun$6(ShortenedTypePrinter.scala:331)
+	at dotty.tools.pc.printer.ShortenedTypePrinter.paramLabel(ShortenedTypePrinter.scala:482)
+	at dotty.tools.pc.printer.ShortenedTypePrinter.$anonfun$5(ShortenedTypePrinter.scala:333)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at dotty.tools.pc.printer.ShortenedTypePrinter.label$1$$anonfun$1(ShortenedTypePrinter.scala:319)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at dotty.tools.pc.printer.ShortenedTypePrinter.label$1(ShortenedTypePrinter.scala:318)
+	at dotty.tools.pc.printer.ShortenedTypePrinter.defaultMethodSignature(ShortenedTypePrinter.scala:343)
+	at dotty.tools.pc.printer.ShortenedTypePrinter.hoverSymbol(ShortenedTypePrinter.scala:237)
+	at dotty.tools.pc.HoverProvider$.hover(HoverProvider.scala:126)
+	at dotty.tools.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:389)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:157)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:143)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:246)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+
+мая 09, 2025 3:19:39 PM scala.meta.internal.mtags.SymbolIndexBucket addMtagsSourceFile
+WARNING: Error indexing C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala
+java.nio.file.NoSuchFileException: C:\Users\artam\Desktop\Scala 2.0\calc\src\main\scala\Main2.scala
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:234)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.Files.readAllBytes(Files.java:3292)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:42)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:18)
+	at scala.meta.internal.mtags.ScalametaCommonEnrichments$XtensionAbsolutePath.toInput(ScalametaCommonEnrichments.scala:465)
+	at scala.meta.internal.mtags.Mtags.index(Mtags.scala:96)
+	at scala.meta.internal.mtags.Mtags.allSymbols(Mtags.scala:21)
+	at scala.meta.internal.mtags.SymbolIndexBucket.allSymbols(SymbolIndexBucket.scala:277)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:288)
+	at scala.meta.internal.mtags.SymbolIndexBucket.addMtagsSourceFile(SymbolIndexBucket.scala:299)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1(SymbolIndexBucket.scala:204)
+	at scala.meta.internal.mtags.SymbolIndexBucket.$anonfun$query0$1$adapted(SymbolIndexBucket.scala:204)
+	at scala.collection.immutable.Set$Set2.foreach(Set.scala:210)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query0(SymbolIndexBucket.scala:204)
+	at scala.meta.internal.mtags.SymbolIndexBucket.query(SymbolIndexBucket.scala:177)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.$anonfun$findSymbolDefinition$1(OnDemandSymbolIndex.scala:142)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.findSymbolDefinition(OnDemandSymbolIndex.scala:142)
+	at scala.meta.internal.mtags.OnDemandSymbolIndex.definition(OnDemandSymbolIndex.scala:48)
+	at scala.meta.internal.metals.Docstrings.indexSymbol(Docstrings.scala:137)
+	at scala.meta.internal.metals.Docstrings.documentation(Docstrings.scala:48)
+	at scala.meta.internal.metals.MetalsSymbolSearch.documentation(MetalsSymbolSearch.scala:51)
+	at dotty.tools.pc.utils.InteractiveEnrichments$.symbolDocumentation(InteractiveEnrichments.scala:284)
+	at dotty.tools.pc.printer.ShortenedTypePrinter.paramsDocs$lzyINIT1$1(ShortenedTypePrinter.scala:310)
+	at dotty.tools.pc.printer.ShortenedTypePrinter.paramsDocs$1(ShortenedTypePrinter.scala:314)
+	at dotty.tools.pc.printer.ShortenedTypePrinter.$anonfun$6(ShortenedTypePrinter.scala:331)
+	at dotty.tools.pc.printer.ShortenedTypePrinter.paramLabel(ShortenedTypePrinter.scala:482)
+	at dotty.tools.pc.printer.ShortenedTypePrinter.$anonfun$5(ShortenedTypePrinter.scala:333)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at dotty.tools.pc.printer.ShortenedTypePrinter.label$1$$anonfun$1(ShortenedTypePrinter.scala:319)
+	at scala.collection.immutable.List.flatMap(List.scala:294)
+	at dotty.tools.pc.printer.ShortenedTypePrinter.label$1(ShortenedTypePrinter.scala:318)
+	at dotty.tools.pc.printer.ShortenedTypePrinter.defaultMethodSignature(ShortenedTypePrinter.scala:343)
+	at dotty.tools.pc.printer.ShortenedTypePrinter.hoverSymbol(ShortenedTypePrinter.scala:237)
+	at dotty.tools.pc.HoverProvider$.hover(HoverProvider.scala:126)
+	at dotty.tools.pc.ScalaPresentationCompiler.hover$$anonfun$1(ScalaPresentationCompiler.scala:389)
+	at scala.meta.internal.pc.CompilerAccess.withSharedCompiler(CompilerAccess.scala:157)
+	at scala.meta.internal.pc.CompilerAccess.withNonInterruptableCompiler$$anonfun$1(CompilerAccess.scala:143)
+	at scala.meta.internal.pc.CompilerAccess.onCompilerJobQueue$$anonfun$1(CompilerAccess.scala:246)
+	at scala.meta.internal.pc.CompilerJobQueue$Job.run(CompilerJobQueue.scala:153)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642)
+	at java.base/java.lang.Thread.run(Thread.java:1575)
+
+мая 09, 2025 3:21:02 PM scala.meta.internal.metals.StdReporter $anonfun$create$1
+WARNING: empty definition using pc, found symbol in pc: `<none>`. (full report at: C:\Users\artam\Desktop\Scala 2.0\.metals\.reports\metals-full\2025-05-09\r_empty-definition_14-01-11-109.md)
+мая 09, 2025 3:22:23 PM org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+2025.05.09 15:22:27 INFO  Shutting down server
+2025.05.09 15:22:27 INFO  shutting down Metals
+2025.05.09 15:22:27 INFO  Shut down connection with build server.
+2025.05.09 15:22:27 INFO  Exiting server
