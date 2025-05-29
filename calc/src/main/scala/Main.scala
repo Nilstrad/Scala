@@ -90,6 +90,34 @@ def printTree(node: Expr, indent: Int = 0): Unit = {
   }
 }
 
+def treeToString(expr: Expr): String = expr match {
+  case Number(value) => value.toString
+  case Variable(name) => name
+  case BinOp(op, left, right) =>
+    val leftStr = left match {
+      case BinOp(innerOp, _, _) if precedence(innerOp) < precedence(op) => s"(${treeToString(left)})"
+      case _ => treeToString(left)
+    }
+    val rightStr = right match {
+      case BinOp(innerOp, _, _) if precedence(innerOp) <= precedence(op) && op != "^" => s"(${treeToString(right)})"
+      case _ => treeToString(right)
+    }
+    s"$leftStr$op$rightStr"
+  case UnaryOp(func, arg) =>
+    val argStr = arg match {
+      case BinOp(_, _, _) => s"(${treeToString(arg)})"
+      case _ => treeToString(arg)
+    }
+    s"$func($argStr)"
+}
+
+def precedence(op: String): Int = op match {
+  case "+" | "-" => 1
+  case "*" | "/" => 2
+  case "^" => 3
+  case _ => 0
+}
+
 
 def evaluate(node: Expr, variables: Map[String, Double] = Map()): Double = node match {
   case Number(v) => v
@@ -184,10 +212,14 @@ def integrate(expr: Expr, variable: String): Expr = expr match {
   val derivative = differentiate(tree, "x")
   println("\nDerivative:")
   printTree(derivative)
+  println(treeToString(derivative))
+  
 
   val integral = integrate(tree, "x")
   println("\nIntegral:")
   printTree(integral)
+  println(treeToString(integral))
+  
 }
 
 }
