@@ -1,0 +1,5 @@
+
+Í"src/main/scala/ExtremeFinder.scala2
+ 
+`.vscode`/:k
+ aThe package name `.vscode` will be encoded on the classpath, and can lead to undefined behaviour.PZ 23C3C029BF7A98EFE1DDE0FCA48202F0
