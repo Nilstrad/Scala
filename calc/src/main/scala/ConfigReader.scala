@@ -1,56 +1,24 @@
 import scala.io.Source
-import scala.util.{Try, Using}
+import scala.util.{Try, Success, Failure}
+import Algebra._
 
 object ConfigReader {
-  case class Config(expression: String, variable: String, values: List[Double])
-  
-  sealed trait ConfigError
-  case class FileNotFound(path: String) extends ConfigError
-  case class InvalidConfig(reason: String) extends ConfigError
-  case class ParseError(details: String) extends ConfigError
+  def readConfigFile(filename: String): Try[(String, String, List[(String, Double)])] = Try {
+    val lines = Source.fromFile(filename).getLines().map(_.trim).filter(_.nonEmpty).toList
+    if (lines.size < 2) throw ConfigError("Config file must contain at least 2 lines (variable and expression)")
 
-  def readConfig(filename: String): Either[ConfigError, Config] = {
-    readFile(filename)
-      .flatMap(parseConfig)
-  }
+    val variable = lines.head
+    if (!variable.matches("^[a-zA-Z]+$")) throw ConfigError(s"Invalid variable name: $variable")
 
-  private def readFile(filename: String): Either[ConfigError, List[String]] = {
-    Using(Source.fromFile(filename)) { source =>
-      source.getLines().toList
-        .map(_.trim)
-        .filter(_.nonEmpty)
-    }.toEither
-      .left.map(_ => FileNotFound(filename))
-  }
-
-  private def parseConfig(lines: List[String]): Either[ConfigError, Config] = {
-    lines match {
-      case Nil => Left(InvalidConfig("Empty config file"))
-      case expr :: rest =>
-        for {
-          varValues <- parseVariableValues(rest)
-          (variable, values) = varValues
-        } yield Config(expr, variable, values)
+    val expr = lines(1)
+    val variableValues = lines.drop(2).map { line =>
+      if (!line.contains("=")) throw ConfigError(s"Invalid variable assignment format: $line")
+      val parts = line.split("=").map(_.trim)
+      if (parts.length != 2) throw ConfigError(s"Invalid variable assignment: $line")
+      if (parts(0) != variable) throw ConfigError(s"Assignment to wrong variable: expected $variable, got ${parts(0)}")
+      (parts(0), Try(parts(1).toDouble).getOrElse(throw ConfigError(s"Invalid number format: ${parts(1)}")))
     }
-  }
 
-  private def parseVariableValues(lines: List[String]): Either[ConfigError, (String, List[Double])] = {
-    lines.flatMap(parseVariableLine).headOption
-      .toRight(InvalidConfig("No valid variable definitions found"))
-  }
-
-  private def parseVariableLine(line: String): Option[(String, List[Double])] = {
-    val parts = line.split("=").map(_.trim)
-    if (parts.length != 2) None
-    else {
-      val variable = parts(0)
-      val values = parts(1).split(",")
-        .map(_.trim)
-        .flatMap(s => Try(s.toDouble).toOption)
-        .toList
-      
-      if (values.nonEmpty) Some((variable, values))
-      else None
-    }
+    (variable, expr, if (variableValues.nonEmpty) variableValues else List((variable, 0.0)))
   }
 }
